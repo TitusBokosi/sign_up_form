@@ -93,6 +93,7 @@ fieldset > div {
 }
 input{
     border: solid black 1px;
+    border-color: black;
     border-radius: 3px;
     width: 80%;
     height: 70%;
@@ -124,4 +125,10 @@ button{
     margin-top: 0;
     color: black;
     margin-left: 0;
+}
+input:focus{
+    border: solid blue 3px;
+}
+input:invalid{
+    border-color: red;
 }

@@ -45,7 +45,7 @@ body{
     height: 20%;
     color: white;
     position: absolute;
-    top: 40%;
+    top: 20%;
     width: 100%;
 }
 img{
@@ -61,7 +61,8 @@ img{
     width: 50%;
 }
 .upper-container > p{
-    font-weight: bolder;
+    font-weight: bold;
+    white-space: normal;
 }
 .upper-container{
     padding: 5%;

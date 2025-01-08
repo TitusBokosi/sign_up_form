@@ -132,3 +132,14 @@ input:focus{
 input:invalid{
     border-color: red;
 }
+cite{
+    color: white;
+    position: absolute;
+    bottom: 5%;
+    font-size: 0.7rem;
+    font-style: normal;
+    justify-self: center;
+}
+a{
+    color: white;
+}
